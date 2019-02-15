@@ -1,7 +1,8 @@
-canvas {
-	border:  1px black dotted;
+canvas{
+    border: black solid 1px;
 }
 
-div {
-	display: flex;
+body {
+    font-family: Impact;
+    text-align: center;
 }
